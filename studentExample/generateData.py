@@ -6,6 +6,7 @@ import numpy as np
 mean_grade = 55
 std_deviation = 15
 
+
 surnames = [
     "Smith", "Johnson", "Williams", "Jones", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor",
     "Anderson", "Thomas", "Jackson", "White", "Harris", "Martin", "Thompson", "Garcia", "Martinez", "Robinson",
