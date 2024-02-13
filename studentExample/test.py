@@ -14,3 +14,4 @@ list3 = [100, 200, 300, 400, 500]
 # Combine the three lists element-wise using zip
 combined_lists = [list(item) for item in zip(list1, list2, list3)]
 print(combined_lists)
+
